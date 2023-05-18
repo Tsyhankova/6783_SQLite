@@ -1,4 +1,4 @@
-# 6783_SQLite
+# Simple financial management application_SQLite_Tkinter
 <p class="has-line-data" data-line-start="1" data-line-end="3">This code implements a simple financial management application using the Tkinter library in Python. The application allows users to track their expenses and incomes by adding, editing, and viewing financial records.<br>
 The main components of the code are as follows:</p>
 <ol>
